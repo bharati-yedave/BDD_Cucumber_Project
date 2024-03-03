@@ -1,0 +1,6 @@
+npm init
+git checkout -b work2-3       
+npm install --save-dev cypress
+npm i npx 
+npx cypress open
+npm install @badeball/cypress-cucumber-preprocessor
